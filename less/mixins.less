@@ -1,0 +1,29 @@
+/* ==========================================================================
+   MIXINS
+   ========================================================================== */
+
+
+/* Clearer
+   ========================================================================== */
+  .clearfix() {
+    &:before,
+    &:after {
+      content: " "; // 1
+      display: table; // 2
+    }
+    &:after {
+      clear: both;
+    }
+  }
+
+
+/* Icon Color
+   ========================================================================== */
+._svgColor(@fillColor:@color-text-default , @strokeColor:transparent){
+  fill: @fillColor;
+  stroke: @strokeColor;
+  path , polygon{
+    fill: @fillColor;
+    stroke: @strokeColor;
+  }
+}
