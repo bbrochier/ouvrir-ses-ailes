@@ -19,8 +19,10 @@
                     <div class="col-md-12">
                         <div class="bloc-rich-text">
                             <h1>Ateliers</h1>
-                            <p>Je vous propose des ateliers en groupe pour appréhender la gestion émotionnelle à l’aide des élixirs floraux, afin que chacun puisse comprendre les émotions qui les traversent, s’approprier des outils et ainsi devenir autonome dans la rééquilibration des états émotionnels perturbés qui empêchent le développement de l’être.</p>
+                            <p>Je vous propose des <strong>ateliers</strong> en groupe pour appréhender la gestion émotionnelle à l’aide des <strong>élixirs floraux</strong>, afin que chacun puisse comprendre les émotions qui les traversent, s’approprier des outils et ainsi <strong>devenir autonome</strong> dans la <strong>rééquilibration des états émotionnels perturbés</strong> qui empêchent le développement de l’être.</p>
                         </div>
+
+                        <?php include 'includes/inc-contact.php' ?>
                     </div>
                 </div>
             </div>

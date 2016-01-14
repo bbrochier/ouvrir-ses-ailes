@@ -20,7 +20,7 @@
                         <div class="bloc-rich-text">
                             <h1>Consultations</h1>
 
-                            <p>Je vous propose un accompagnement en consultations individuelles personnalisées pour vous permettre de&nbs:</p>
+                            <p>Je vous propose un accompagnement en <strong>consultations individuelles personnalisées</strong> pour vous permettre de&nbsp;:</p>
                             <ul>
                                 <li>trouver votre poids d’équilibre,</li>
                                 <li>accroitre votre énergie et votre vitalité,</li>
@@ -31,6 +31,8 @@
                                 <li>soutenir votre immunité pour être en meilleure santé...</li>
                             </ul>
                         </div>
+
+                        <?php include 'includes/inc-contact.php' ?>
                     </div>
                 </div>
             </div>

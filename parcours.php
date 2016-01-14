@@ -37,12 +37,14 @@
                                         <li>DU Nutrition du sport</li>
                                     </ul>
                                 </li>
-                                <li>Conseillère en élixirs floraux (niveau II) – Les Harmoniques</li>
-                                <li>Aromathérapie (Niveau Pro) – par Elske Miles à l’IFS</li>
+                                <li>Conseillère en élixirs floraux – <small>Les Harmoniques</small></li>
+                                <li>Aromathérapie – <small>par Elske Miles à l’IFS</small></li>
                                 <li>Reiki</li>
                                 <li>Guérison par les énergies subtiles</li>
                             </ul>
                         </div>
+
+                        <?php include 'includes/inc-contact.php' ?>
                     </div>
                 </div>
             </div>

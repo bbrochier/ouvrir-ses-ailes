@@ -1,9 +1,27 @@
 /* ==========================================================================
    FOOTER
    ========================================================================== */
-  .class {}
 
-
-/* Footer sections
+/* Footer contact
    ========================================================================== */
-  .class {}
+  .footer-contact {
+    font-size: 15px;
+    line-height: 1.7em;
+    background: #fff;
+    padding: 15px 45px 10px 45px;
+    border-radius: 4px;
+    border: 1px solid @color-beige-tana;
+    .row {
+      .clearfix();
+    }
+    .phonemail {
+      font-size: 16px;
+    }
+
+    .col-md-4 {
+      border-left: 1px solid @color-beige-tana;
+      &:first-child {
+        border: none;
+      }
+    }
+  }

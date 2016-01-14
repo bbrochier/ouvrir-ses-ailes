@@ -1,11 +1,20 @@
 <div class="aside">
-<!--     <div class="card">
-        <h3 class="title3">Agenda</h3>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui asperiores suscipit perspiciatis voluptatum tempore, ipsum quisquam! Eius quisquam quod expedita?
-    </div>
- -->
+
     <div class="fb-page" data-href="https://www.facebook.com/ouvrirsesailes" data-tabs="timeline" data-height="70" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/ouvrirsesailes"><a href="https://www.facebook.com/ouvrirsesailes">Ouvrir ses ailes</a></blockquote></div></div>
     <br><br>
+
+    <div class="card">
+        <h3 class="title3">Actualités</h3>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui asperiores suscipit perspiciatis voluptatum tempore, ipsum quisquam! Eius quisquam quod expedita?
+    </div>
+
+    <div class="card card-bio">
+        <h3 class="title3">Qui suis-je?</h3>
+        <img src="img/portrait-aside.jpg" alt="aurore brochier" width="80"> Passionnée par le fonctionnement du corps humain et par le mystère qui l’entoure, j’ai d’abord exploré ce domaine jusqu’aux profondeurs de nos cellules...
+        <div class="cta">
+            <a href="parcours.php" class="btn">Mon parcours</a>
+        </div>
+    </div>
 
     <div class="card card-newsletter">
         <h3 class="title3">Newsletter</h3>
@@ -31,28 +40,4 @@
         <!--End mc_embed_signup-->
     </div>
 
-
-    <div class="card card-bio">
-        <h3 class="title3">Qui suis-je?</h3>
-        <img src="img/portrait-aside.jpg" alt="aurore brochier" width="90">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui asperiores suscipit perspiciatis voluptatum tempore, ipsum quisquam! Eius quisquam quod expedita?
-        <div class="cta">
-            <a href="parcours.php" class="btn">Mon parcours</a>
-        </div>
-    </div>
-
-
-    <div class="card">
-        <h3 class="title3">Contact</h3>
-        <div class="bloc-rich-text">
-            06 77 97 04 37 <br>
-            <small><a href="mailto:aurorebrochier@ouvrir-ses-ailes.fr">aurorebrochier@ouvrir-ses-ailes.fr</a></small>
-            <hr>
-            Chemin de la bourderie <br>
-            38134 St-Joseph-de-rivière <br>
-            <small>(à 20min de Voiron) <br>Consultations possible sur Grenoble</small>
-            <div class="cta">
-                <a href="contact.php" class="btn">Voir la carte</a>
-            </div>
-        </div>
-    </div>
 </div>

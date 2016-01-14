@@ -28,6 +28,8 @@
                             <p>En effet, en nutrition consciente, les aliments ne sont pas à considérer uniquement comme de la simple matière qui apporte des calories, ils sont également une <strong>source d’énergie qui nous transmet des informations indispensables au développement de notre être</strong>.</p>
                             <p><strong>Ce mode d'alimentation s'adresse à tout le monde</strong>, petits et grands, femmes enceintes, sportifs, personnes bien portantes ou malades.</p>
                         </div>
+
+                        <?php include 'includes/inc-contact.php' ?>
                     </div>
                 </div>
             </div>

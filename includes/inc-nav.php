@@ -13,7 +13,7 @@
                 <a href="elixirs.php">Elixirs floraux</a>
             </li>
             <li <?php if ($page == 'energie') echo 'class="active"';?>>
-                <a href="energie.php">Équilibre énergetique</a>
+                <a href="energie.php">Équilibration énergetique</a>
             </li>
             <li <?php if ($page == 'consultations' || $page == 'conferences' || $page == 'ateliers' || $page == 'stages') echo 'class="active"';?>>
                 <span>Activités</span>

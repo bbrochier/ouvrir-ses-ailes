@@ -20,9 +20,11 @@
                         <div class="bloc-rich-text">
                             <h1>Conférences</h1>
 
-                            <p>J’anime des conférences portant sur la compréhension du corps humain, l’intérêt d’avoir une alimentation saine et vivante et l’influence que cela a sur la santé globale de l’être.</p>
+                            <p>J’anime des <strong>conférences</strong> portant sur la compréhension du corps humain, l’intérêt d’avoir une <strong>alimentation saine et vivante</strong> et l’influence que cela a sur la santé globale de l’être.</p>
                             <p>L’objectif étant que chacun développe une conscience de son alimentation et ainsi devienne responsable de sa vitalité et de sa santé.</p>
                         </div>
+
+                        <?php include 'includes/inc-contact.php' ?>
                     </div>
                 </div>
             </div>

@@ -34,6 +34,7 @@
                             <img src="img/home-banner-2.jpg" alt="">
                         </div>
 
+                        <?php include 'includes/inc-contact.php' ?>
                     </div>
                 </div>
             </div>

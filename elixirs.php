@@ -32,6 +32,8 @@
                             <a href="http://artstella-elixirs-floraux.com/La-vie-du-Dr-Edward-Bach">http://artstella-elixirs-floraux.com/La-vie-du-Dr-Edward-Bach</a></em></p>
 
                         </div>
+
+                        <?php include 'includes/inc-contact.php' ?>
                     </div>
                 </div>
             </div>

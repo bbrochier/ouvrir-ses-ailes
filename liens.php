@@ -22,7 +22,7 @@
 
                             <h2>Partenaires</h2>
                             <ul>
-                                <li>
+<!--                                 <li>
                                     <a href="http://www.autour-de-l-etre.fr/">Association AUTOUR DE L’ETRE</a> <br>
                                     <small>L'association "Autour de l’être" est une association loi 1901 dédiée à l'organisation et la pratique d'activités de bien-être. Elle concerne les activités de pratiques spirituelle, thérapeutique, de loisir et plus globalement de developpement personnel. « Autour de l'être» vit dans un espace mis à sa disposition à « La Vallée Rieuse » située à Coublevie.</small>
                                 </li>
@@ -32,9 +32,10 @@
                                 </li>
                                 <li>
                                     <a href="http://www.pausebio.com/">Café LA PAUSE BIO</a>
-                                </li>
+                                </li> -->
                                 <li>
-                                    <a href="http://www.la-ruche-a-giter.fr">La RUCHE A GITER</a>
+                                    <a href="http://www.la-ruche-a-giter.fr">La RUCHE A GITER</a> <br>
+                                    <small>Gîte convivial et chaleureux situé au coeur du Parc naturel régional de Chartreuse.</small>
                                 </li>
                             </ul>
 
@@ -46,13 +47,16 @@
                                 </li>
                                 <li>
                                     <a href="http://www.bordeblanque.com/formation_de_guerison">La BORDE BLANQUE</a> <br>
-                                    <small>Formation de Guérison par les Énergies Subtiles. Fondée sur les principes de la santé et de la maladie développés par Alice Bailey, l'enseignement est conforme aux lignes de conduites de l'INEH (International Network of Energy Healing / RIGE : Réseau International de Guérison Ésotérique)</small>
+                                    <small>Formation de Guérison par les Énergies Subtiles. Fondée sur les principes de la santé et de la maladie développés par Alice Bailey, l'enseignement est conforme aux lignes de conduites de l'INEH (International Network of Energy Healing)</small>
                                 </li>
                                 <li>
-                                    <a href="http://www.technique-liberation-emotionnelle.fr/">Technique de liberation emotionnelle</a>
+                                    <a href="http://www.technique-liberation-emotionnelle.fr/">Technique de liberation emotionnelle</a> <br>
+                                    <small>Véronique Waumans - Thérapeute</small>
                                 </li>
                             </ul>
                         </div>
+
+                        <?php include 'includes/inc-contact.php' ?>
                     </div>
                 </div>
             </div>

@@ -25,11 +25,16 @@
                             <p>La personne retrouve confiance en elle, ce qui permet d’accéder à son espace de sagesse intérieur.</p>
                             <p>Dans les jours qui suivent l’équilibration, des prises de conscience peuvent survenir ; elles sont importantes pour permettre de comprendre les difficultés rencontrées et d’identifier des solutions pour  les résoudre.</p>
                             <p>Le travail sur le champ d’énergie permet de ressentir une profonde relaxation, un état de bien-être et un lâcher prise du corps physique.</p>
-                            <p>L’équilibration énergétique est particulièrement adaptée pour tout ce qui touche au plan physique : douleur, maladie, blessure, accident..., <br>
-                            lors de perturbations émotionnelles, relationnelles, <br>
-                            dans les périodes de changement, de transition,<br>
-                            pour des questionnements existentiels...</p>
+                            <p>L’équilibration énergétique est particulièrement adaptée pour tout ce qui touche au plan physique : </p>
+                            <ul>
+                                <li>douleur, maladie, blessure, accident...</li>
+                                <li>lors de perturbations émotionnelles, relationnelles,</li>
+                                <li>dans les périodes de changement, de transition,</li>
+                                <li>pour des questionnements existentiels...</li>
+                            </ul>
                         </div>
+
+                        <?php include 'includes/inc-contact.php' ?>
                     </div>
                 </div>
             </div>
