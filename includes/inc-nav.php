@@ -32,6 +32,9 @@
                     </li>
                 </ul>
             </li>
+            <li <?php if ($page == 'actualites') echo 'class="active"';?>>
+                <a href="actualites.php">Actualités</a>
+            </li>
             <li <?php if ($page == 'contact') echo 'class="active"';?>>
                 <a href="contact.php">Contact</a>
             </li>

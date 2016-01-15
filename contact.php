@@ -20,21 +20,41 @@
                         <div class="bloc-rich-text">
                             <h1>Contact</h1>
                             <div class="row">
-                                <div class="col-md-6">
+                                <div class="col-md-12">
                                     <p>
                                         06 77 97 04 37 <br>
                                         <a href="mailto:aurorebrochier@ouvrir-ses-ailes.fr">aurorebrochier@ouvrir-ses-ailes.fr</a>
                                     </p>
                                 </div>
-                                <div class="col-md-6">
-                                  <p>
-                                    Chemin de la bourderie <br>
-                                    38134 St-Joseph-de-rivière <br>
-                                    <small>(à 20min de Voiron) <br>Consultations possible sur Grenoble</small>
-                                  </p>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h2>Adresses de consultations :</h2>
                                 </div>
                             </div>
-                            <div id="map"></div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p>
+                                        Chemin de la bourderie <br>
+                                        38134 <strong>St-Joseph-de-rivière</strong> <br>
+                                        <small>(à 20min de Voiron)</small>
+                                    </p>
+                                </div>
+                                <div class="col-md-6">
+                                    <p>
+                                        20 Avenue Général Champon <br>
+                                        38100 <strong>Grenoble</strong>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div id="map"></div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div id="map2"></div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

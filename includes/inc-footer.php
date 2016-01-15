@@ -1,15 +1,32 @@
         <script>
             function initMap() {
+
+             //map 1
               var myLatLng = {lat: 45.377120, lng: 5.677930};
 
               var map = new google.maps.Map(document.getElementById('map'), {
                 zoom: 10,
-                center: myLatLng
+                center: myLatLng,
+                scrollwheel: false
               });
 
               var marker = new google.maps.Marker({
                 position: myLatLng,
                 map: map
+              });
+
+              //map 2
+              var myLatLng2 = {lat: 45.180770, lng: 5.731259};
+
+              var map2 = new google.maps.Map(document.getElementById('map2'), {
+                zoom: 13,
+                center: myLatLng2,
+                scrollwheel: false
+              });
+
+              var marker2 = new google.maps.Marker({
+                position: myLatLng2,
+                map: map2
               });
             }
         </script>
