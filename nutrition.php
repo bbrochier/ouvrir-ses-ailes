@@ -1,7 +1,7 @@
 <?php
     $page = 'nutrition';
-    $page_title = 'Aurore BROCHIER  // Harmonisation énergétique - Gestion émotionnelle - Nutrition';
-    $page_desc = 'description...';
+    $page_title = 'Nutrition consciente à Grenoble / Voiron / St Joseph de rivière (Isère) - Aurore BROCHIER';
+    $page_desc = '';
 ?>
 
 <?php include 'includes/inc-head.php' ?>

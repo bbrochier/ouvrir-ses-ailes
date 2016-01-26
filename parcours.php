@@ -1,7 +1,7 @@
 <?php
     $page = 'parcours';
     $page_title = 'Aurore BROCHIER  // Harmonisation énergétique - Gestion émotionnelle - Nutrition';
-    $page_desc = 'description...';
+    $page_desc = '';
 ?>
 
 <?php include 'includes/inc-head.php' ?>

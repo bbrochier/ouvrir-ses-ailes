@@ -1656,6 +1656,7 @@ blockquote span {
   padding: 15px 45px 10px 45px;
   border-radius: 4px;
   border: 1px solid #dddabb;
+  margin-bottom: 15px;
 }
 .footer-contact .row:before,
 .footer-contact .row:after {

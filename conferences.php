@@ -1,7 +1,7 @@
 <?php
     $page = 'conferences';
-    $page_title = 'Aurore BROCHIER  // Harmonisation énergétique - Gestion émotionnelle - Nutrition';
-    $page_desc = 'description...';
+    $page_title = 'Conférences Harmonisation énergétique, Gestion émotionnelle, Nutrition à Grenoble, Voiron, St Joseph de rivière (Isère) - Aurore BROCHIER';
+    $page_desc = '';
 ?>
 
 <?php include 'includes/inc-head.php' ?>

@@ -1,7 +1,7 @@
 <?php
     $page = 'actualites';
-    $page_title = 'Aurore BROCHIER  // Harmonisation énergétique - Gestion émotionnelle - Nutrition';
-    $page_desc = 'description...';
+    $page_title = 'Actualités Stages et Conférence Harmonisation énergétique, Gestion émotionnelle, Nutrition à Grenoble, Voiron, St Joseph de rivière (Isère) - Aurore BROCHIER';
+    $page_desc = '';
 ?>
 
 <?php include 'includes/inc-head.php' ?>
@@ -20,7 +20,13 @@
                         <div class="bloc-rich-text">
                             <h1>Actualités</h1>
                             <h2>Stage <em>"Détox avant l'été"</em></h2>
-                            <strong>19 et 20 mai 2016</strong>
+                            <strong>19 et 20 mai 2016</strong><br><br>
+                            <div class="alignCenter">
+                                <img src="img/tmp/actualites/190516-detox/stage-detox-19-mai-2016.jpg" alt="Stage detox mai 2016">
+                            </div>
+                            <div class="alignCenter">
+                                <a href="pdf/stage-detox-19-mai-2016.pdf" class="btn" download="stage-detox-19-mai-2016.pdf">Télécharger le PDF</a>
+                            </div>
                         </div>
 
                         <?php include 'includes/inc-contact.php' ?>
