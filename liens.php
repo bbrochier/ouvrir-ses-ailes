@@ -22,11 +22,11 @@
 
                             <h2>Partenaires</h2>
                             <ul>
-<!--                                 <li>
+                                <li>
                                     <a href="http://www.autour-de-l-etre.fr/">Association AUTOUR DE L’ETRE</a> <br>
                                     <small>L'association "Autour de l’être" est une association loi 1901 dédiée à l'organisation et la pratique d'activités de bien-être. Elle concerne les activités de pratiques spirituelle, thérapeutique, de loisir et plus globalement de developpement personnel. « Autour de l'être» vit dans un espace mis à sa disposition à « La Vallée Rieuse » située à Coublevie.</small>
                                 </li>
-                                <li><a href="http://www.oreade-balneo.com/fr/">Centre balnéo/ bien-être OREADE</a></li>
+                                <!--<li><a href="http://www.oreade-balneo.com/fr/">Centre balnéo/ bien-être OREADE</a></li>
                                 <li>
                                     <a href="http://www.bulledebonheur.fr/">Centre de bien-être LA BULLE A BONHEUR</a>
                                 </li>
