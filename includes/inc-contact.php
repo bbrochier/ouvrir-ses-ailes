@@ -10,8 +10,8 @@
             <small><a href="mailto:aurorebrochier@ouvrir-ses-ailes.fr">aurorebrochier@ouvrir-ses-ailes.fr</a></small>
         </div>
         <div class="col-md-4">
-            Chemin de la bourderie <br>
-            38134 St-Joseph-de-rivière <br>
+            26 rue Dode <br>
+            38500 Voiron <br>
             <a href="contact.php" class="btn">Voir la carte</a>
         </div>
         <div class="col-md-4">

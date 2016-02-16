@@ -6,8 +6,9 @@
     <div class="card card-actu">
         <h3 class="title3">Actualités</h3>
         <ul>
-            <li><strong>Conférence</strong> <br>10 février 2016<br><a href="actualites.php#manger"><em>"Manger en pleine conscience, à l'écoute de nos sens"</em></a></li>
-            <li><strong>Stage</strong> <br>19 et 20 mai 2016<br><a href="actualites.php#detox"><em>"Détox avant l'été"</em></a></li>
+            <li><strong>Conférence</strong> <br>10 février<br><a href="actualites.php#manger"><em>"Manger en pleine conscience, à l'écoute de nos sens"</em></a></li>
+            <li><strong>Ateliers</strong> <br>12 mars, 9 avril, 30 avril<br><a href="actualites.php#femme"><em>"La femme dans tous ses états"</em></a></li>
+            <li><strong>Stage</strong> <br>19 et 20 mai<br><a href="actualites.php#detox"><em>"Détox avant l'été"</em></a></li>
         </ul>
         <div class="cta">
             <a href="actualites.php" class="btn">Voir plus</a>

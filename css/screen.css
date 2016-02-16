@@ -556,8 +556,8 @@ body {
 }
 body {
   font-family: 'Lora', serif;
-  background: url(../img/bg-body.jpg) no-repeat;
-  background-size: cover;
+  background: #f8f5e2 url(../img/bg-body.jpg) no-repeat;
+  background-size: 100%;
   background-position: center 0;
   color: #783927;
 }
