@@ -35,9 +35,8 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <p>
-                                        Chemin de la bourderie <br>
-                                        38134 <strong>St-Joseph-de-rivière</strong> <br>
-                                        <small>(à 20min de Voiron)</small>
+                                        26 rue Dode <br>
+                                        38500 <strong>Voiron</strong> <br>
                                     </p>
                                 </div>
                                 <div class="col-md-6">

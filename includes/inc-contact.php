@@ -4,6 +4,7 @@
             <h3 class="title3">Contact</h3>
         </div>
     </div>
+
     <div class="row">
         <div class="col-md-4 phonemail">
             06 77 97 04 37 <br>
