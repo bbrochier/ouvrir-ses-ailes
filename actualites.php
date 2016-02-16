@@ -20,12 +20,14 @@
                         <div class="bloc-rich-text">
                             <h1>Actualités</h1>
 
+                            <!-- POST -->
                             <h2 id="manger">Conférence <em>"Manger en pleine conscience, à l'écoute de nos sens"</em></h2>
                             <strong>10 février 2016</strong><br><br>
                             <div class="alignCenter">
                                 <img src="img/tmp/actualites/100216-manger/conf-nutrition-consciente.jpg" alt="Conference Manger en pleine conscience fevrier 2016">
                             </div>
-
+                            <hr>
+                            <!-- POST -->
                             <h2 id="femme">Ateliers <em>"La femme dans tous ses états"</em></h2>
                             <strong>12 mars, 9 avril, 30 avril 2016</strong><br>
                             <p><strong>Des états d’être, des états d’âme...</strong><br>
@@ -38,11 +40,36 @@
                             Tarif : 30€ pour 1 atelier ou 80€ pour les 3 ateliers <br>
 
                             Sur inscription auprès d’Aurore : 06.77.97.04.37</p>
-
                             <div class="alignCenter">
                                 <img src="img/tmp/actualites/femme/femme.jpg" alt="Atelier la femme dans tous ses etats mars avril 2016">
                             </div>
+                            <hr>
+                            <!-- POST -->
+                            <h2 id="friandises">Atelier de cuisine vivante <em>"Des friandises qui vous veulent du bien"</em></h2>
+                            <strong>26 mars 2016</strong><br>
+                            <p><strong>Alternative santé aux chocolats de Pâques...</strong><br>
+                                Venez <strong>explorer l’alimentation vivante</strong>, faite à base d’aliments crus et sans cuisson, et ses intérêts pour votre santé.
+                                <br>
+                                <strong>Découvrez les « superaliments »</strong> et comment les utiliser.
+                                <br>
+                                <strong>Réalisez de délicieuses friandises</strong>, alternative santé aux chocolats de Pâques, qui raviront les gourmands qui vous entourent.
+                                <br>
+                                Pour agrémenter cette matinée, je vous propose de <strong>déguster un jus de fruits et légumes frais</strong> accompagné de ces petites douceurs…
+                                <br><br>
+                                Animé par Aurore BROCHIER - Diététicienne <br>
+                                Samedi 26 mars de 9h à 11h30 <br>
+                                Tarif : 45€ <br>
 
+                                Sur inscription auprès d’Aurore : 06.77.97.04.37
+                            </p>
+                            <div class="alignCenter">
+                                <img src="img/tmp/actualites/friandises/friandises-vivantes.jpg" alt="Atelier de cuisine vivante mars 2016">
+                            </div>
+                            <div class="alignCenter">
+                                <a href="pdf/friandises-vivantes-29-mars-2016.pdf" class="btn" download="friandises-vivantes-29-mars-2016.pdf">Télécharger l'affiche (PDF)</a>
+                            </div>
+                            <hr>
+                            <!-- POST -->
                             <h2 id="detox">Stage <em>"Détox avant l'été"</em></h2>
                             <strong>19 et 20 mai 2016</strong><br>
                             <p>
