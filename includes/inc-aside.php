@@ -7,8 +7,8 @@
         <h3 class="title3">Actualités</h3>
         <ul>
 <!--            <li><strong>Conférence</strong> <br>10 février<br><a href="actualites.php#manger"><em>"Manger en pleine conscience, à l'écoute de nos sens"</em></a></li>-->
-            <li><strong>Ateliers</strong> <br>12 mars, 9 avril, 30 avril<br><a href="actualites.php#femme"><em>"La femme dans tous ses états"</em></a></li>
-            <li><strong>Ateliers de cuisine vivante</strong> <br>26 mars<br><a href="actualites.php#friandises"><em>"Des friandises qui vous veulent du bien"</em></a></li>
+            <li><strong>Ateliers</strong> <br>9 avril, 30 avril<br><a href="actualites.php#femme"><em>"La femme dans tous ses états"</em></a></li>
+            <li><strong>Conférence</strong> <br>17 mai<br><a href="actualites.php#alimviv"><em>Alimentation vivante : "Je fais mes jus à l'extracteur"</em></a></li>
             <li><strong>Stage</strong> <br>19 et 20 mai<br><a href="actualites.php#detox"><em>"Détox avant l'été"</em></a></li>
         </ul>
         <div class="cta">

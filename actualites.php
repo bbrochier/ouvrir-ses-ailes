@@ -21,29 +21,69 @@
                             <h1>Actualités</h1>
 
                             <!-- POST -->
-                            <h2 id="manger">Conférence <em>"Manger en pleine conscience, à l'écoute de nos sens"</em></h2>
-                            <strong>10 février 2016</strong><br><br>
+                            <h2 id="detox">Stage <em>"Détox avant l'été"</em></h2>
+                            <strong>19 et 20 mai 2016</strong><br>
+                            <p>
+                                Tout au long de l’année, notre corps cumule toxines et surcharges.
+                                Une <strong>cure détox</strong> aide à éliminer, à <strong>nettoyer et régénérer le corps et l’esprit</strong>.
+                                Encadrés par une <strong>équipe professionnelle</strong>, offrez-vous une pause détox, santé et randonnée pour bien aborder l’été.<br>
+
+                                Ce stage est proposé à toutes les personnes qui souhaitent s’accorder une <strong>pause bien-être</strong> et permettre ainsi à leur corps d’<strong>éliminer les toxines</strong> accumulées durant l’hiver.<br>
+
+                                Nous vous proposons durant ces deux jours, des <strong>randonnées en conscience</strong>, des ateliers sur la <strong>santé au naturel</strong> et une soirée thématique sur l’<strong>alimentation saine et vivante</strong>.
+
+                            </p>
                             <div class="alignCenter">
-                                <img src="img/tmp/actualites/100216-manger/conf-nutrition-consciente.jpg" alt="Conference Manger en pleine conscience fevrier 2016">
+                                <img src="img/tmp/actualites/190516-detox/stage-detox-19-mai-2016.jpg" alt="Stage detox mai 2016">
+                            </div>
+                            <div class="alignCenter">
+                                <a href="pdf/stage-detox-19-mai-2016.pdf" class="btn" download="stage-detox-19-mai-2016.pdf">Télécharger le programme (PDF)</a>
                             </div>
                             <hr>
+
+
+                            <!-- POST -->
+                            <h2 id="alimviv">Conférence <em>Alimentation vivante : "Je fais mes jus à l'extracteur"</em></h2>
+                            <strong>17 mai 2016 (19h)</strong><br>
+                            <p>
+                                Naturellement riches en nutriments essentiels, <strong>les végétaux possèdent de multiples vertus pour notre santé.</strong>
+
+                                Les consommer <strong>sous forme de jus</strong> nous permet de bénéficier pleinement de leur richesse et de leur énergie vitale.
+                                <br>
+
+                                <strong>Quel végétaux choisir? Comment les associer? Pourquoi utiliser un extracteur de jus et lequel choisir?</strong>
+                                <br><br>
+                                La conférence sera suivi d’un moment d’échange et de partage autour d’une dégustation.
+                                <br><br>
+                                Tarif entrée + dégustation: 8€ <br>
+                                Lieu: "La Vallée Rieuse" 542, route du Massot 38500 COUBLEVIE <br>
+                                Inscription auprès d’Aurore: 06.77.97.04.37
+
+                            </p>
+                            <div class="alignCenter">
+                                <img src="img/tmp/actualites/conference-alimentation-vivante-jus-extracteur.jpeg" alt="Conférence Alimentation vivante mai 2016">
+                            </div>
+                            <hr>
+
+
                             <!-- POST -->
                             <h2 id="femme">Ateliers <em>"La femme dans tous ses états"</em></h2>
                             <strong>12 mars, 9 avril, 30 avril 2016</strong><br>
                             <p><strong>Des états d’être, des états d’âme...</strong><br>
-                            Tout au long de son existence, une femme vit plusieurs états souvent accompagnés d’émotions qui viennent bousculer son équilibre. Ces ateliers sont proposés aux <strong>femmes qui souhaitent faire une pause</strong> afin de se donner un véritable moment, une attention particulière dans l’instant. Nous vous proposons de venir <strong>explorer ces différents états</strong> à travers des <strong>postures de yoga</strong> pour se connecter à son corps physique et aux <strong>élixirs floraux</strong> pour apaiser l’émotionnel.<br>
+                                Tout au long de son existence, une femme vit plusieurs états souvent accompagnés d’émotions qui viennent bousculer son équilibre. Ces ateliers sont proposés aux <strong>femmes qui souhaitent faire une pause</strong> afin de se donner un véritable moment, une attention particulière dans l’instant. Nous vous proposons de venir <strong>explorer ces différents états</strong> à travers des <strong>postures de yoga</strong> pour se connecter à son corps physique et aux <strong>élixirs floraux</strong> pour apaiser l’émotionnel.<br>
                                 <br>
                                 Samedi 12 mars de 8h30 à 12h00 : La femme et l’image du corps <br>
-                            Samedi 9 avril de 8h30 à 12h00 : La femme et les cycles menstruels <br>
-                            Samedi 30 avril de 8h30 à 12h00 : La femme et la ménopause <br><br>
+                                Samedi 9 avril de 8h30 à 12h00 : La femme et les cycles menstruels <br>
+                                Samedi 30 avril de 8h30 à 12h00 : La femme et la ménopause <br><br>
 
-                            Tarif : 30€ pour 1 atelier ou 80€ pour les 3 ateliers <br>
+                                Tarif : 30€ pour 1 atelier ou 80€ pour les 3 ateliers <br>
 
-                            Sur inscription auprès d’Aurore : 06.77.97.04.37</p>
+                                Sur inscription auprès d’Aurore : 06.77.97.04.37</p>
                             <div class="alignCenter">
                                 <img src="img/tmp/actualites/femme/femme.jpg" alt="Atelier la femme dans tous ses etats mars avril 2016">
                             </div>
                             <hr>
+
                             <!-- POST -->
                             <h2 id="friandises">Atelier de cuisine vivante <em>"Des friandises qui vous veulent du bien"</em></h2>
                             <strong>26 mars 2016</strong><br>
@@ -69,25 +109,15 @@
                                 <a href="pdf/friandises-vivantes-29-mars-2016.pdf" class="btn" download="friandises-vivantes-29-mars-2016.pdf">Télécharger l'affiche (PDF)</a>
                             </div>
                             <hr>
+
+
                             <!-- POST -->
-                            <h2 id="detox">Stage <em>"Détox avant l'été"</em></h2>
-                            <strong>19 et 20 mai 2016</strong><br>
-                            <p>
-                                Tout au long de l’année, notre corps cumule toxines et surcharges.
-                                Une <strong>cure détox</strong> aide à éliminer, à <strong>nettoyer et régénérer le corps et l’esprit</strong>.
-                                Encadrés par une <strong>équipe professionnelle</strong>, offrez-vous une pause détox, santé et randonnée pour bien aborder l’été.<br>
-
-                                Ce stage est proposé à toutes les personnes qui souhaitent s’accorder une <strong>pause bien-être</strong> et permettre ainsi à leur corps d’<strong>éliminer les toxines</strong> accumulées durant l’hiver.<br>
-
-                                Nous vous proposons durant ces deux jours, des <strong>randonnées en conscience</strong>, des ateliers sur la <strong>santé au naturel</strong> et une soirée thématique sur l’<strong>alimentation saine et vivante</strong>.
-
-                            </p>
+                            <h2 id="manger">Conférence <em>"Manger en pleine conscience, à l'écoute de nos sens"</em></h2>
+                            <strong>10 février 2016</strong><br><br>
                             <div class="alignCenter">
-                                <img src="img/tmp/actualites/190516-detox/stage-detox-19-mai-2016.jpg" alt="Stage detox mai 2016">
+                                <img src="img/tmp/actualites/100216-manger/conf-nutrition-consciente.jpg" alt="Conference Manger en pleine conscience fevrier 2016">
                             </div>
-                            <div class="alignCenter">
-                                <a href="pdf/stage-detox-19-mai-2016.pdf" class="btn" download="stage-detox-19-mai-2016.pdf">Télécharger le programme (PDF)</a>
-                            </div>
+
                         </div>
 
                         <?php include 'includes/inc-contact.php' ?>
