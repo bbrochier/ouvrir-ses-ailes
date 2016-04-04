@@ -31,7 +31,7 @@
                                     <a href="http://www.bulledebonheur.fr/">Centre de bien-être LA BULLE A BONHEUR</a>
                                 </li> -->
                                 <li>
-                                    <a href="http://www.pausebio.com/">Café LA PAUSE BIO</a>
+                                    <a href="http://www.pausebio.com/">Café PAUSE BIO</a>
                                 </li>
                                 <li>
                                     <a href="http://www.la-ruche-a-giter.fr">La RUCHE A GITER</a> <br>
