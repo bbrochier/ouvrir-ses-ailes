@@ -44,7 +44,7 @@
 
                             <!-- POST -->
                             <h2 id="alimviv">Conférence <em>Alimentation vivante : "Je fais mes jus à l'extracteur"</em></h2>
-                            <strong>17 mai 2016 (19h)</strong><br>
+                            <strong>17 mai 2016 à 19h</strong><br>
                             <p>
                                 Naturellement riches en nutriments essentiels, <strong>les végétaux possèdent de multiples vertus pour notre santé.</strong>
 
@@ -62,6 +62,56 @@
                             </p>
                             <div class="alignCenter">
                                 <img src="img/tmp/actualites/conference-alimentation-vivante-jus-extracteur.jpeg" alt="Conférence Alimentation vivante mai 2016">
+                            </div>
+                            <hr>
+
+                            <!-- POST -->
+                            <h2 id="energybars">Atelier <em>Cuisine vivante : "Réalisez vos Energy balls et barres énergétiques crues"</em></h2>
+                            <strong>19 avril 2016 à 19h</strong><br>
+                            <p>
+                                Venez <strong>explorer l’alimentation vivante</strong>, faite à base d’aliments crus et sans cuisson, et ses intérêts pour votre santé.
+                                <strong>Découvrez les « superaliments »</strong> et comment les utiliser. <br><br>
+
+                                <strong>Réalisez de délicieux en-cas</strong> à emporter avec vous lors de vos sorties sportives.
+                                A consommer au <strong>petit-déjeuner, pendant l’effort</strong> ou <strong>en récupération</strong> selon leur composition...
+                                <br><br>
+
+                                Pause bio - 3, rue Jean-François Hache - 38000 GRENOBLE <br>
+                                04.76.41.01.99 <br>
+
+                                Tarif: 35€
+                            </p>
+                            <div class="alignCenter">
+                                <img src="img/tmp/actualites/cuisine-vivante-barres-energetiques.jpeg" alt="Atelier Cuisine vivante avril 2016">
+                            </div>
+                            <hr>
+
+                            <!-- POST -->
+                            <h2 id="alimsport">Conférence <em>"L'alimentation vivante dans la vie du sportif"</em></h2>
+                            <strong>12 avril 2016</strong><br>
+                            <p>
+                                Se tourner vers l'<strong>alimentation vivante</strong>, qui favorise très largement les aliments comportant un maximum de vitalité, c'est revenir à un <strong>mode d'alimentation en conscience, en accord avec les besoins du corps.</strong>
+                                <br><br>A la fois <strong>détoxinante et revitalisante</strong>, cette manière de se nourrir stimule les mécanismes naturels d’<strong>autoguérison du corps</strong> et participe au renforcement de la vitalité et des défenses naturelles.
+
+                                <strong>Comment mettre en pratique l’alimentation vivante en lien avec sa pratique sportive, et ainsi préserver sa santé, améliorer ses performances et être acteur de son bien-être.</strong>
+                                <br><br>
+                                <strong>Conférence animée par :</strong><br>
+                                Aurore BROCHIER <br>
+                                <em>Diététicienne- Nutritionniste <br>
+                                diplômée en Nutrition du sport et micronutrition</em> <br><br>
+
+                                et <br><br>
+
+                                Nicolas HAIRON <br>
+                                <em>Ingénieur et réalisateur indépendant <br>
+                                Compétiteur en trail et ski alpinisme</em> <br><br>
+
+                                Tarif: 10€ - places limitées <br>
+                                Réservation auprès de Pause Bio: 04.76.41.01.99
+
+                            </p>
+                            <div class="alignCenter">
+                                <img src="img/tmp/actualites/alimentation-vivante-sportifs.jpg" alt="Conférence Alimentation vivante avril 2016">
                             </div>
                             <hr>
 

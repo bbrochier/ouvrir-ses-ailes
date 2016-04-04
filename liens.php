@@ -29,10 +29,10 @@
                                 <!--<li><a href="http://www.oreade-balneo.com/fr/">Centre balnéo/ bien-être OREADE</a></li>
                                 <li>
                                     <a href="http://www.bulledebonheur.fr/">Centre de bien-être LA BULLE A BONHEUR</a>
-                                </li>
+                                </li> -->
                                 <li>
                                     <a href="http://www.pausebio.com/">Café LA PAUSE BIO</a>
-                                </li> -->
+                                </li>
                                 <li>
                                     <a href="http://www.la-ruche-a-giter.fr">La RUCHE A GITER</a> <br>
                                     <small>Gîte convivial et chaleureux situé au coeur du Parc naturel régional de Chartreuse.</small>
