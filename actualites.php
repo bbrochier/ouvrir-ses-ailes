@@ -21,6 +21,30 @@
                             <h1>Actualités</h1>
 
                             <!-- POST -->
+                            <h2 id="ptitdejvivant">Conférence <em>Alimentation vivante: "je prépare des petits-déjeuner crus à croquer"</em></h2>
+                            <strong>22 juin à 19h</strong><br>
+                            <p>
+                                C’est tellement important de <strong>prendre le temps</strong>, le matin, de se poser.<br>
+                                De commencer la journée <strong>doucement, tendrement</strong>. <br><br>
+
+                                De quoi se compose un <strong>petit-déjeuner vivant?</strong><br>
+                                Que nous apporte la consommation d’<strong>aliments crus dès le matin?</strong><br><br>
+
+                                Je vous proposerai également, pour préparer vos <strong>petits-déjeuner à croquer</strong>, des <strong>recettes vivantes et dynamisantes</strong> qui raviront toute la famille.
+                                <br><br>
+                                Tarif entrée: 6€ <br>
+                                Lieu: &quot;La Vallée Rieuse&quot; <a href="https://www.google.com/maps/place/542+Route+du+Massot,+38500+Coublevie,+France/@45.35265,5.6217839,17z/data=!3m1!4b1!4m5!3m4!1s0x478ae4fcc1b4877f:0xd0339b8d9f382607!8m2!3d45.35265!4d5.6239726" target="_blank">542, route du Massot 38500 COUBLEVIE</a> <br>
+                                Inscription auprès d’Aurore: 06 77 97 04 37
+                            </p>
+                            <div class="alignCenter">
+                                <img src="img/tmp/actualites/conference-alimentation-vivante-petit-dejeuner.jpeg" alt="Conference alimentation vivante juin 2016">
+                            </div>
+                            <div class="alignCenter">
+                                <a href="pdf/conference-alimentation-vivante-petit-dejeuner-22-juin-2016.pdf" class="btn" download="conference-alimentation-vivante-petit-dejeuner-22-juin-2016.pdf">Télécharger l'affiche (PDF)</a>
+                            </div>
+                            <hr>
+
+                            <!-- POST -->
                             <h2 id="detox">Stage <em>"Détox avant l'été"</em></h2>
                             <strong>19 et 20 mai 2016</strong><br>
                             <p>
