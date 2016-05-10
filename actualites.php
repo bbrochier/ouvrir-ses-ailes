@@ -21,6 +21,47 @@
                             <h1>Actualités</h1>
 
                             <!-- POST -->
+                            <h2 id="puddings">Atelier de cuisine vivant <em>#2 "puddings et laits végétaux"</em></h2>
+                            <strong>samedi 9 juillet de 9h à 12h</strong><br>
+                            <p>
+                                Venez <strong>explorer l’alimentation vivante</strong>, faite à base d’aliments végétaux, crus et sans cuisson, et ses intérêts pour votre santé <strong>dès le petit-déjeuner</strong>!
+                                <br><br>
+                                Le <strong>pudding aux graines de chia</strong> est doux, soyeux et légèrement croquant. C’est une recette aux multiples déclinaisons qui <strong>allie délice et nutrition saine. Les laits végétaux « fait maison »</strong> que vous réaliserez lors de cet atelier sont parfaits pour confectionner les puddings aux graines et <strong>bien débuter la journée.</strong>
+                                <br><br>
+                                Tarif: 30€ <br>
+                                Lieu: &quot;La Vallée Rieuse&quot; <a href="https://www.google.com/maps/place/542+Route+du+Massot,+38500+Coublevie,+France/@45.35265,5.6217839,17z/data=!3m1!4b1!4m5!3m4!1s0x478ae4fcc1b4877f:0xd0339b8d9f382607!8m2!3d45.35265!4d5.6239726" target="_blank">542, route du Massot 38500 COUBLEVIE</a> <br>
+                                Inscription auprès d’Aurore: 06 77 97 04 37
+                            </p>
+                            <div class="alignCenter">
+                                <img src="img/tmp/actualites/Ateliers-cuisine-vivante-puddings-laits-vegetaux.jpeg" alt="Atelier cuisine vivante puddings laits vegetaux juillet 2016">
+                            </div>
+                            <div class="alignCenter">
+                                <a href="pdf/Ateliers-cuisine-vivante-puddings-laits-vegetaux.pdf" class="btn" download="Ateliers-cuisine-vivante-puddings-laits-vegetaux.pdf">Télécharger l'affiche (PDF)</a>
+                            </div>
+                            <hr>
+
+                            <!-- POST -->
+                            <h2 id="smoothiebowl">Atelier de cuisine vivant <em>#1 "smoothie bowl"</em></h2>
+                            <strong>samedi 25 juin de 9h à 12h</strong><br>
+                            <p>
+                                Venez <strong>explorer l’alimentation vivante</strong>, faite à base d’aliments végétaux, crus et sans cuisson, et ses intérêts pour votre santé <strong>dès le petit-déjeuner</strong>!
+                                <br><br>
+                                Le <strong>smoothie bowl</strong> est un mélange à la texture crémeuse, composé de fruits, agrémenté de baies, graines, oléagineux, herbes aromatiques… 
+                                <br>
+                                <strong>Réalisez des recettes colorées</strong>, appétissantes, nutritives et gorgées de vitamines, idéales pour <strong>bien commencer la journée</strong>.<br><br>
+                                Tarif: 30€ <br>
+                                Lieu: &quot;La Vallée Rieuse&quot; <a href="https://www.google.com/maps/place/542+Route+du+Massot,+38500+Coublevie,+France/@45.35265,5.6217839,17z/data=!3m1!4b1!4m5!3m4!1s0x478ae4fcc1b4877f:0xd0339b8d9f382607!8m2!3d45.35265!4d5.6239726" target="_blank">542, route du Massot 38500 COUBLEVIE</a> <br>
+                                Inscription auprès d’Aurore: 06 77 97 04 37
+                            </p>
+                            <div class="alignCenter">
+                                <img src="img/tmp/actualites/Ateliers-cuisine-vivante-smootie-bowl.jpeg" alt="Atelier cuisine vivante smootie bowl juin 2016">
+                            </div>
+                            <div class="alignCenter">
+                                <a href="pdf/Ateliers-cuisine-vivante-smootie-bowl.pdf" class="btn" download="Ateliers-cuisine-vivante-smootie-bowl.pdf">Télécharger l'affiche (PDF)</a>
+                            </div>
+                            <hr>
+
+                            <!-- POST -->
                             <h2 id="ptitdejvivant">Conférence <em>Alimentation vivante: "je prépare des petits-déjeuner crus à croquer"</em></h2>
                             <strong>22 juin à 19h</strong><br>
                             <p>
