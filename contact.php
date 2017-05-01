@@ -29,29 +29,20 @@
                             </div>
                             <div class="row">
                                 <div class="col-md-12">
-                                    <h2>Adresses de consultations :</h2>
+                                    <h2>Adresse de consultations :</h2>
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="col-md-6">
+                                <div class="col-md-12">
                                     <p>
-                                        26 rue Dode <br>
+                                        1, avenue Georges Frier <br>
                                         38500 <strong>Voiron</strong> <br>
                                     </p>
                                 </div>
-                                <div class="col-md-6">
-                                    <p>
-                                        20 Avenue Général Champon <br>
-                                        38100 <strong>Grenoble</strong>
-                                    </p>
-                                </div>
                             </div>
                             <div class="row">
-                                <div class="col-md-6">
+                                <div class="col-md-12">
                                     <div id="map"></div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div id="map2"></div>
                                 </div>
                             </div>
                         </div>

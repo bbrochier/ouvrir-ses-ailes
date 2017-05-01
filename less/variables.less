@@ -8,7 +8,7 @@
   @color-brown-nut: #783927;
   @color-red-cherry: #e3194b;
   @color-beige-tana: #dddabb;
-
+  @color-orange-jaffa: #f0803e;
 
 /* Fonts
    ========================================================================== */
@@ -19,3 +19,26 @@
    ========================================================================== */
   @zindex-root : 2;
   //@zindex-name : (@zindex-root + 1);
+
+
+/* Media queries
+   ========================================================================== */
+@screen-l:  1200px;
+@screen-m:  992px;
+@screen-s:  768px;
+@screen-xs: 480px;
+
+@screen-xs-max: (@screen-xs - 1);
+@screen-s-max:  (@screen-s - 1);
+@screen-m-max:  (@screen-m - 1);
+@screen-l-max:  (@screen-l - 1);
+
+@screen-min-l:  ~"screen and (min-width:@{screen-l})";        //1200 and above
+@screen-min-m:  ~"screen and (min-width:@{screen-m})";        //992 and above
+@screen-min-s:  ~"screen and (min-width:@{screen-s})";        //768 and above
+@screen-min-xs:  ~"screen and (min-width:@{screen-xs})";      //480 and above
+
+@screen-max-l: ~"screen and (max-width:@{screen-l-max})";     //1200 and below
+@screen-max-m: ~"screen and (max-width:@{screen-m-max})";     //991 and below
+@screen-max-s: ~"screen and (max-width:@{screen-s-max})";     //767 and below
+@screen-max-xs: ~"screen and (max-width:@{screen-xs-max})";   //479 and below

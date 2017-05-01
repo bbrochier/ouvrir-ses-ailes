@@ -368,6 +368,8 @@ th {
    ========================================================================== */
 /* Z-index
    ========================================================================== */
+/* Media queries
+   ========================================================================== */
 /* Mixins
    ========================================================================== */
 /* ==========================================================================
@@ -1621,12 +1623,23 @@ blockquote span {
   font-weight: 400;
   color: #e3194b;
   position: relative;
+  margin-bottom: 0;
 }
 .logo-title img {
   position: absolute;
   right: 60px;
   top: -15px;
   height: 150px;
+}
+@media screen and (max-width:1199px) {
+  .logo-title img {
+    right: 0;
+  }
+}
+@media screen and (max-width:991px) {
+  .logo-title img {
+    display: none;
+  }
 }
 .logo-title a {
   text-decoration: none;
@@ -1643,6 +1656,13 @@ blockquote span {
   display: block;
   color: #783927;
   margin-top: 10px;
+}
+.logo-title i {
+  font-size: 18px;
+  line-height: 24px;
+  display: block;
+  color: #f0803e;
+  margin-top: 0;
 }
 /* ==========================================================================
    FOOTER

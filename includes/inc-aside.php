@@ -6,11 +6,7 @@
     <div class="card card-actu">
         <h3 class="title3">Actualités</h3>
         <ul>
-            <li><strong>Conférence</strong> <br>mardi 17 mai<br><a href="actualites.php#alimviv"><em>Alimentation vivante : "Je fais mes jus à l'extracteur"</em></a></li>
-            <li><strong>Stage</strong> <br>19 et 20 mai<br><a href="actualites.php#detox"><em>"Détox avant l'été"</em></a></li>
-            <li><strong>Conférence</strong> <br>mercredi 22 juin<br><a href="actualites.php#ptitdejvivant"><em>Alimentation vivante : "je prépare des petits-déjeuner crus à croquer"</em></a></li>
-            <li><strong>Atelier</strong> <br>samedi 25 juin<br><a href="actualites.php#smoothiebowl"><em>Atelier de cuisine vivant #1 "smoothie bowl"</em></a></li>
-            <li><strong>Atelier</strong> <br>samedi 9 juillet<br><a href="actualites.php#puddings"><em>Atelier de cuisine vivant #2 "puddings et laits végétaux"</em></a></li>
+            <li><strong>Atelier de cuisine vitalité</strong> <br>Samedi 18 avril 2017<br><a href="actualites.php#laitsvegetaux"><em>"Les laits végétaux"</em></a></li>
         </ul>
         <div class="cta">
             <a href="actualites.php" class="btn">Voir plus</a>

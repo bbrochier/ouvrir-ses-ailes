@@ -21,6 +21,69 @@
                             <h1>Actualités</h1>
 
                             <!-- POST -->
+                            <h2 id="#laitsvegetaux">Atelier de cuisine vitalité <em>"Les laits végétaux"</em></h2>
+                            <strong>Samedi 18 avril 2017 de 17h30 à 19h30</strong><br>
+
+                            <p>Venez <strong>explorer l’alimentation vivante</strong>, faite à base d’aliments végétaux, crus et sans cuisson.</p>
+                            <p><strong>Les laits végétaux « faits maison »</strong> que vous réaliserez lors de cet atelier sont parfaits pour confectionner les <strong>préparations du petit-déjeuner</strong> et  bien commencer la journée.</p>
+
+                            <p>
+                                Tarif: 30€ <br>
+                                Lieu: Restaurant "Planète saveurs"  - 1, avenue Georges Frier à VOIRON <br>
+                                Inscription auprès d’Aurore: 06 77 97 04 37
+                            </p>
+
+                            <p></p>
+                            <div class="alignCenter">
+                                <img src="img/tmp/actualites/Ateliers-laits-vegetaux.jpg" alt="Ateliers laits végétaux">
+                            </div>
+                            <div class="alignCenter">
+                                <a href="pdf/Ateliers-laits-vegetaux.pdf" class="btn" download="Ateliers-laits-vegetaux.pdf">Télécharger l'affiche (PDF)</a>
+                            </div>
+                            <hr>
+
+                            <!-- POST -->
+                            <h2 id="#AtelierNutritionConscience">Atelier de nutrition consciente <em>"se nourrir en conscience, renouer avec la sagesse de son corps"</em></h2>
+                            <strong>samedi 24 septembre de 14h à 18h</strong><br>
+
+                            <p><strong>Se réapproprier notre alimentation, retrouver nos sensations alimentaires et être acteur de notre bien-être dans la douceur et la joie.</strong></p>
+
+                            <p>A travers divers exercices ludiques qui nous invitent à nous <strong>connecter à notre source intérieure</strong>, renouons avec la sagesse de notre corps.<br>Notre corps connaît nos besoins et nos envies et, si nous l’écoutons, nous oriente vers <strong>une alimentation en harmonie avec qui nous sommes.</strong></p>
+
+                            <p>
+                                Tarif: 40€ <br>
+                                Lieu: &quot;La Vallée Rieuse&quot; <a href="https://www.google.com/maps/place/542+Route+du+Massot,+38500+Coublevie,+France/@45.35265,5.6217839,17z/data=!3m1!4b1!4m5!3m4!1s0x478ae4fcc1b4877f:0xd0339b8d9f382607!8m2!3d45.35265!4d5.6239726" target="_blank">542, route du Massot 38500 COUBLEVIE</a> <br>
+                                Inscription auprès d’Aurore: 06 77 97 04 37
+                            </p>
+
+
+                            <p>
+
+                            </p>
+                            <div class="alignCenter">
+                                <img src="img/tmp/actualites/Ateliers-nutrition-consciente.jpg" alt="Atelier Nutrition consciente septembre 2016">
+                            </div>
+                            <div class="alignCenter">
+                                <a href="pdf/Ateliers-nutrition-consciente.pdf" class="btn" download="Ateliers-nutrition-consciente.pdf">Télécharger l'affiche (PDF)</a>
+                            </div>
+                            <hr>
+
+                            <!-- POST -->
+                            <h2 id="weMarcheConscience">Week-end pour soi <em>"Se nourrir et marcher en conscience"</em></h2>
+                            <strong>15 et 16 octobre 2016</strong><br>
+                            <p>Offrez-vous une pause bien-être, santé et randonnée pour retrouver <strong>joie et vitalité</strong>.<br>
+                                Encadrés par une <strong>équipe professionnelle</strong>, pratiquez des <strong>activités en conscience</strong>, venez vous <strong>reconnecter à la nature</strong> et découvrir <strong>l’alimentation vivante</strong>.</p>
+                            <p>Ce stage est proposé à toutes les personnes qui souhaitent <strong>s’accorder du temps</strong> et se permettre ainsi de renouer avec <strong>la sagesse de son corps</strong>.</p>
+                            <p>Nous vous proposons durant ces deux jours, des <strong>randonnées en conscience</strong>, des <strong>ateliers de nutrition</strong> et une soirée thématique sur  <strong>l’alimentation vivante</strong>.</p>
+                            <div class="alignCenter">
+                                <img src="img/tmp/actualites/week-end-stage-alimentation-et-marche-consciente.jpeg" alt="week-end - stage - alimentation et marche consciente 2016">
+                            </div>
+                            <div class="alignCenter">
+                                <a href="pdf/programme-week-end-stage-alimentation-et-marche-consciente.pdf" class="btn" download="programme-week-end-stage-alimentation-et-marche-consciente.pdf">Télécharger le programme (PDF)</a>
+                            </div>
+                            <hr>
+
+                            <!-- POST -->
                             <h2 id="puddings">Atelier de cuisine vivant <em>#2 "puddings et laits végétaux"</em></h2>
                             <strong>samedi 9 juillet de 9h à 12h</strong><br>
                             <p>

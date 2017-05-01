@@ -2,7 +2,7 @@
             function initMap() {
 
              //map 1
-              var myLatLng = {lat: 45.365472, lng: 5.594403};
+              var myLatLng = {lat: 45.3653963, lng: 5.591763};
 
               var map = new google.maps.Map(document.getElementById('map'), {
                 zoom: 10,
@@ -16,18 +16,18 @@
               });
 
               //map 2
-              var myLatLng2 = {lat: 45.180770, lng: 5.731259};
-
-              var map2 = new google.maps.Map(document.getElementById('map2'), {
-                zoom: 13,
-                center: myLatLng2,
-                scrollwheel: false
-              });
-
-              var marker2 = new google.maps.Marker({
-                position: myLatLng2,
-                map: map2
-              });
+//              var myLatLng2 = {lat: 45.180770, lng: 5.731259};
+//
+//              var map2 = new google.maps.Map(document.getElementById('map2'), {
+//                zoom: 13,
+//                center: myLatLng2,
+//                scrollwheel: false
+//              });
+//
+//              var marker2 = new google.maps.Marker({
+//                position: myLatLng2,
+//                map: map2
+//              });
             }
         </script>
         <script src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap" async defer></script>

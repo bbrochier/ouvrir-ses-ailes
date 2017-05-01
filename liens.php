@@ -46,10 +46,6 @@
                                     <small>Spécialisé dans la préparation d’élixirs floraux depuis 1986, le laboratoire DEVA est une entreprise au service du bien-être et de la santé. Tous les élixirs floraux sont préparés selon la méthode originelle du Dr Bach. Installée dans les Alpes françaises, au cœur du Parc Naturel du Vercors, le laboratoire est situé dans un environnement préservé et privilégié, réputé pour la richesse et la diversité de sa flore.</small>
                                 </li>
                                 <li>
-                                    <a href="http://www.bordeblanque.com/formation_de_guerison">La BORDE BLANQUE</a> <br>
-                                    <small>Formation de Guérison par les Énergies Subtiles. Fondée sur les principes de la santé et de la maladie développés par Alice Bailey, l'enseignement est conforme aux lignes de conduites de l'INEH (International Network of Energy Healing)</small>
-                                </li>
-                                <li>
                                     <a href="http://www.technique-liberation-emotionnelle.fr/">Technique de liberation emotionnelle</a> <br>
                                     <small>Véronique Waumans - Thérapeute</small>
                                 </li>

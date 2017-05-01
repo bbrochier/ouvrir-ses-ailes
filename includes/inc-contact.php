@@ -11,13 +11,10 @@
             <small><a href="mailto:aurorebrochier@ouvrir-ses-ailes.fr">aurorebrochier@ouvrir-ses-ailes.fr</a></small>
         </div>
         <div class="col-md-4">
-            26 rue Dode <br>
-            38500 Voiron <br>
-            <a href="contact.php" class="btn">Voir la carte</a>
+            1, avenue Georges Frier <br>
+            38500 Voiron
         </div>
-        <div class="col-md-4">
-            20 Avenue Général Champon <br>
-            38100 Grenoble <br>
+        <div class="col-md-3">
             <a href="contact.php" class="btn">Voir la carte</a>
         </div>
     </div>
