@@ -7,6 +7,7 @@
         <h3 class="title3">Actualités</h3>
         <ul>
             <li><strong>Atelier de cuisine vitalité</strong> <br>Samedi 18 avril 2017<br><a href="actualites.php#laitsvegetaux"><em>"Les laits végétaux"</em></a></li>
+            <li><strong>Atelier de cuisine vitalité</strong> <br>Mardi 16 mai 2017<br><a href="actualites.php#dessertSSsucre"><em>"Desserts sans sucre"</em></a></li>
         </ul>
         <div class="cta">
             <a href="actualites.php" class="btn">Voir plus</a>

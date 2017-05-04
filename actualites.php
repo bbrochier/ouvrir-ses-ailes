@@ -21,6 +21,28 @@
                             <h1>Actualités</h1>
 
                             <!-- POST -->
+                            <h2 id="#dessertSSsucre">Atelier de cuisine vitalité <em>"Desserts sans sucre"</em></h2>
+                            <strong>Mardi 16 mai 2017 de 18h à 20h</strong><br>
+
+                            <p>Venez <strong>explorer l’alimentation vivante</strong>, faite à base d’aliments végétaux, crus et sans cuisson.</p>
+                            <p>Découvrez comment rester en pleine forme en se régalant de <strong>desserts gourmands sans sucre ajouté</strong> ni édulcorants, sans gluten ni lactose.</p>
+
+                            <p>
+                                Tarif: 30€ <br>
+                                Lieu: Restaurant "Planète saveurs"  - 1, avenue Georges Frier à VOIRON <br>
+                                Inscription auprès d’Aurore: 06 77 97 04 37
+                            </p>
+
+                            <p></p>
+                            <div class="alignCenter">
+                                <img src="img/tmp/actualites/Ateliers-desserts-sans-sucre.jpg" alt="Ateliers laits végétaux">
+                            </div>
+                            <div class="alignCenter">
+                                <a href="pdf/Ateliers-desserts-sans-sucre.pdf" class="btn" download="Ateliers-desserts-sans-sucre.pdf">Télécharger l'affiche (PDF)</a>
+                            </div>
+                            <hr>
+
+                            <!-- POST -->
                             <h2 id="#laitsvegetaux">Atelier de cuisine vitalité <em>"Les laits végétaux"</em></h2>
                             <strong>Samedi 18 avril 2017 de 17h30 à 19h30</strong><br>
 
